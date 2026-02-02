@@ -1,4 +1,3 @@
-
 <!-- ===================== HERO ===================== -->
 <p align="center">
   <img src="https://i.ibb.co/6rZpX2r/developer-banner.gif" width="100%" />
@@ -6,8 +5,11 @@
 
 <h1 align="center">👋 Hi, I'm <strong>Viranya Gangamina</strong></h1>
 
+<!-- Animated typing line (TOP highlight) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=900&color=00F7FF&center=true&vCenter=true&width=900&lines=Computer+Science+Undergraduate;Full-Stack+Developer;Mobile+App+Developer;Cloud+%26+DevOps+Explorer;AI-Augmented+Engineer" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=00FFE1&center=true&vCenter=true&width=800&lines=My+GitHub+Never+Sleeps...;Commits+Flowing+Every+Week;Building+%E2%80%A2+Breaking+%E2%80%A2+Learning;Consistency+Over+Time"
+  />
 </p>
 
 <p align="center">
@@ -21,6 +23,7 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
+
 
 ---
 
@@ -98,38 +101,6 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=4"/>
-
----
-
-## 🧮 GitHub Presence
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&color=00FFE1&center=true&vCenter=true&width=800&lines=My+GitHub+Never+Sleeps...;Commits+Flowing+Every+Week;Building+%E2%80%A2+Breaking+%E2%80%A2+Learning;Consistency+Over+Time"
-  />
-</p>
-
-<!-- Animated contribution pulse -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=700&color=FF7AE9&center=true&vCenter=true&width=700&lines=▁▂▃▄▅▆▇+Contribution+Pulse;▂▄▆▇▇▆▄▂+Weekly+Momentum;▁▃▅▇▇▅▃▁+Long-Term+Growth"
-  />
-</p>
-
-<!-- Animated stats illusion -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=800&color=7AA2FF&center=true&vCenter=true&width=750&lines=Followers+Increasing+Over+Time+↗;Stars+Accumulating+Across+Projects+★;Commits+Stacking+Day+by+Day+▲;Open+Source+Journey+In+Motion"
-  />
-</p>
-
-<!-- Floating divider -->
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"
-  />
-</p>
-
 
 ---
 
