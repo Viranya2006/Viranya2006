@@ -313,7 +313,7 @@ workflow:
   
   <br><br>
   
-  ### 🇱🇰 **Crafted with** ❤️ **and** ☕ **in Sri Lanka**
+  **Crafted with** ❤️ **and** ☕
   
   <p>
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love"/>
