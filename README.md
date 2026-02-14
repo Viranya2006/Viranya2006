@@ -47,7 +47,7 @@
 
 <div align="center">
 
-🎓 **Computer Science Undergraduate** from **Sri Lanka** 🇱🇰
+🎓 **Computer Science Undergraduate** at **Cardiff Metropolitan University** UK
 
 💡 Passionate about building **Scalable Backend Systems** and creating **Fluid UI/UX** experiences
 
