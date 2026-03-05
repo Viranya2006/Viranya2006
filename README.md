@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0,0,0,30,FFD700&height=200&section=header&text=Viranya%20Gangamina&fontSize=42&fontColor=FFD700&animation=twinkling&fontAlignY=35&desc=Data%20Science%20%7C%20Full%20Stack%20%7C%20AWS%20Community%20Builder&descAlignY=58&descSize=16&descColor=AAAAAA"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=750&lines=I+am+the+night+%F0%9F%A6%87;Dark+Knight+of+Data+Science+%F0%9F%96%A4%EF%B8%8F;AWS+Community+Builder+%E2%98%81%EF%B8%8F;Bruce+Wayne+by+day%2C+Coder+by+night+%F0%9F%92%BB" alt="Typing SVG"/>
-
-<br/>
-
 <a href="https://linkedin.com/in/viranya-gangamina-4748a5228"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700"/></a>
 <a href="mailto:viranyagangamina@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FFD700"/></a>
 <a href="https://wa.me/94704091240"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=FFD700"/></a>
@@ -30,11 +26,11 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/l0MYJnJQ4EiYLxvQ4/giphy.gif" width="360" alt="Batman"/>
+<img src="https://media.giphy.com/media/FmISlhpuonAaY/giphy.gif" width="360" alt="Batman"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=FFD700&center=true&vCenter=true&width=700&lines=Initializing+Dark+Knight+Protocol...+%F0%9F%A6%87;Loading+Batcave+Systems...+%E2%9C%85;Connecting+to+Gotham+Network...+%E2%9C%85;Identity+Confirmed+%E2%80%94+Viranya+Gangamina+%E2%9C%85" alt="Boot sequence"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=800&color=FFD700&center=true&vCenter=true&width=400&height=40&lines=Initializing+Dark+Knight+Protocol...;Loading+Batcave+Systems...+%E2%9C%85;Identity+Confirmed+%E2%80%94+Viranya+%E2%9C%85" alt="Boot sequence"/>
 
 </div>
 
@@ -50,8 +46,9 @@ class DarkKnight:
     weapons = ["Machine Learning", "Deep Learning",
                "NLP / LLMs", "Data Visualization"]
 
-    alter_ego   = "Full Stack Developer 💻"
+    alter_ego   = "Freelance Full Stack Developer 💻"
     order       = "AWS Community Builder ☁️"
+    achievement = "11 Distinctions — Higher Diploma 🎓"
 
     status = "Fighting crime & bad data since 2024 🦇"
 ```
@@ -209,7 +206,7 @@ class DarkKnight:
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Gotham+needs+a+Data+Scientist+%F0%9F%A6%87;Currently+accepting+new+missions...;The+night+is+darkest+before+the+model+trains+%F0%9F%96%A4%EF%B8%8F;Open+to+Internships+%26+Collabs+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=400&height=40&lines=Gotham+needs+a+Data+Scientist+%F0%9F%A6%87;Currently+accepting+missions...;Open+to+Internships+%26+Collabs+%F0%9F%9A%80"/>
 
 </div>
 
