@@ -129,23 +129,6 @@ Remote OK. Free work: **absolutely not.**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
----
-
-## 📌 What I've Shipped
-
-<div align="center">
-
-> *Pinned repos below. They auto-update. Being lazy efficiently is basically DevOps.*
-
-<!-- Replace repo names below with your actual pinned repo slugs -->
-[![Atlas CRM](https://github-readme-stats.vercel.app/api/pin/?username=Viranya2006&repo=Atlas-CRM&theme=dark&hide_border=true&title_color=CC0000&icon_color=FF9900&bg_color=0d0d0d)](https://github.com/Viranya2006?tab=repositories)
-[![Specter](https://github-readme-stats.vercel.app/api/pin/?username=Viranya2006&repo=Specter&theme=dark&hide_border=true&title_color=CC0000&icon_color=FF9900&bg_color=0d0d0d)](https://github.com/Viranya2006?tab=repositories)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
----
 
 ## 📡 Damage Report
 
